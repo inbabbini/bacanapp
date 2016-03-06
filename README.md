@@ -10,6 +10,6 @@ Las funciones que la aplicación proveerá, al menos en un principio, son:
 * Manejo del stock de **Productos**
 * Pagina principal con informacion del negocio
 * Indice de **Productos** visible al publico
-* *(OPCIONAL)* ABM de **Usuarios**
-  * Administrativos y de Clientes
-  * Relacion con los **Clientes** 1-1
+* ABM de **Usuarios**
+  * Tipo Administrativo
+  * *(OPCIONAL)* Tipo Cliente (relacion 1-1 con **Clientes**)
