@@ -12,4 +12,4 @@ Las funciones que la aplicación proveerá, al menos en un principio, son:
 * Indice de **Productos** visible al publico
 * ABM de **Usuarios**
   * Tipo Administrativo
-  * *(OPCIONAL)* Tipo Cliente (relacion 1-1 con **Clientes**)
+  * *(REVISAR VIABILIDAD)* Tipo Cliente (relacion 1-1 con **Clientes**)
